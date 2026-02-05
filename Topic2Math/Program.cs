@@ -30,7 +30,7 @@
             Console.WriteLine("         ");
             Console.WriteLine("           "); 
             Console.WriteLine("You work 8 hours and earn 21$ per hour. How much do you earn total?");
-            Console.WriteLine("You earn " + (8 * 21) + " which makes 168$");
+            Console.WriteLine("You earn " + (8 * 21) + " which makes 168$"); 
         }
     }
 }
