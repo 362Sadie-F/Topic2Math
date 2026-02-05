@@ -38,7 +38,9 @@
             Console.WriteLine((12.0 / 6.0) + "$" + " per egg");
             Console.WriteLine("       ");
             Console.WriteLine("         ");
-            Console.WriteLine("           ");
+            Console.WriteLine("what is 13% tax on a product that cost you 79.99$?");
+            Console.WriteLine((79.99 * 0.13) + "$" + " Is the tax you pay on the product");
+            Console.WriteLine((79.99 + 10.40) + "$" + " is the total you pay plus tax");
         }
     }
 }
