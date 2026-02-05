@@ -31,7 +31,7 @@
             Console.WriteLine("         ");
             Console.WriteLine("           ");
             Console.WriteLine("You work 8 hours and earn 21$ per hour. How much do you earn total?");
-            Console.WriteLine("You earn " + (8 * 21) + " which makes 168$");
+            Console.WriteLine("You earn " + (8 * 21) + "$" + " in total");
             Console.WriteLine("       ");
             Console.WriteLine("         ");
             Console.WriteLine("6$ for a dozen eggs, how much does each egg cost?");
